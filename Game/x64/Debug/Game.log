@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Гордей\Desktop\SFML-2.6.1\Game\main.cpp(129,38): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+C:\Users\Гордей\Desktop\SFML-2.6.1\Game\main.cpp(254,36): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Гордей\Desktop\SFML-2.6.1\Game\main.cpp(266,34): warning C4305: -=: усечение из "double" в "float"
+  Game.vcxproj -> C:\Users\Гордей\Desktop\SFML-2.6.1\Game\x64\Debug\Game.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
